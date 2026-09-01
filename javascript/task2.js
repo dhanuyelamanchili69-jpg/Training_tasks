@@ -10,6 +10,18 @@
 //Try changing the const value and observe the error.
 //Try redeclaring the var variable.
 //Try redeclaring the let variable and observe the error.
+// Task 1 — var, let, const
+//Create three variables:
+//var → student name
+//let → student age
+//const → college name
+//Requirements:
+//Print all three values.
+//Change the var value.
+//Change the let value.
+//Try changing the const value and observe the error.
+//Try redeclaring the var variable.
+//Try redeclaring the let variable and observe the error.
 var studentName0="dhanumjaya";
 let studentAge0=25;
 const collegeName0="gaythri vidhya parishad degree and pg courses";
